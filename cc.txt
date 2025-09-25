@@ -1,0 +1,3 @@
+Cloud computing provides us a virtual platform to work on same machine .
+Cloud computing provide us a facility that we can create a new OS on top of another OS
+we can create as many virtual machines as we want
